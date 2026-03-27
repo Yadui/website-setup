@@ -1,0 +1,1951 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Risetech - Managed IT services Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/risetech.1onestrong.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/risetech.1onestrong.com\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/risetech.1onestrong.com\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact - Section - Metform",
+            "screenshot": "screenshots\/contact-section-metform.jpg",
+            "source": "templates\/contact-section-metform.json",
+            "preview_url": "https:\/\/risetech.1onestrong.com\/template-kit\/contact-section-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/risetech.1onestrong.com\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/risetech.1onestrong.com\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services Detail",
+            "screenshot": "screenshots\/services-detail.jpg",
+            "source": "templates\/services-detail.json",
+            "preview_url": "https:\/\/risetech.1onestrong.com\/template-kit\/services-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Industry",
+            "screenshot": "screenshots\/industry.jpg",
+            "source": "templates\/industry.json",
+            "preview_url": "https:\/\/risetech.1onestrong.com\/template-kit\/industry\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/risetech.1onestrong.com\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/risetech.1onestrong.com\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/risetech.1onestrong.com\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/risetech.1onestrong.com\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/risetech.1onestrong.com\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/risetech.1onestrong.com\/template-kit\/404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/risetech.1onestrong.com\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/risetech.1onestrong.com\/template-kit\/single-post\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/risetech.1onestrong.com\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.14.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.9.0",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.6.1",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.3.3",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Logo-01.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Logo-01.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 10128,
+            "dimensions": [
+                670,
+                126
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "BG-06.jpg",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/BG-06-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our team"
+                }
+            ],
+            "filesize": 46033,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Asset-015.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Asset-015.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/industry.json",
+                    "name": "Industry"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 68360,
+            "dimensions": [
+                392,
+                387
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Heros-05.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Heros-05-800x481.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 176391,
+            "dimensions": [
+                1810,
+                1088
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "logo-preview-10.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/logo-preview-10-800x337.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 9864,
+            "dimensions": [
+                992,
+                418
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-preview-2.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/logo-preview-2-800x337.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 11375,
+            "dimensions": [
+                992,
+                418
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-preview-3.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/logo-preview-3-800x337.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 11701,
+            "dimensions": [
+                992,
+                418
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-preview-4.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/logo-preview-4-800x337.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 10854,
+            "dimensions": [
+                992,
+                418
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-preview-6.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/logo-preview-6-800x337.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 10850,
+            "dimensions": [
+                992,
+                418
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-preview-7.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/logo-preview-7-800x337.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 8881,
+            "dimensions": [
+                992,
+                418
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-preview-8.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/logo-preview-8-800x337.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 8856,
+            "dimensions": [
+                992,
+                418
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-preview-1.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/logo-preview-1-800x337.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 14022,
+            "dimensions": [
+                992,
+                418
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-preview-5.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/logo-preview-5-800x337.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 10301,
+            "dimensions": [
+                992,
+                418
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Asset-02.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Asset-02-800x277.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/industry.json",
+                    "name": "Industry"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 19601,
+            "dimensions": [
+                888,
+                308
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Asset-03.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Asset-03-800x267.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 21459,
+            "dimensions": [
+                924,
+                308
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Asset-04.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Asset-04-800x267.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 21511,
+            "dimensions": [
+                922,
+                308
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Asset-05.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Asset-05-800x266.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 20839,
+            "dimensions": [
+                928,
+                308
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Asset-010.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Asset-010.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 9824,
+            "dimensions": [
+                462,
+                196
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Asset-012.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Asset-012.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 92346,
+            "dimensions": [
+                522,
+                522
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "ristechjpg-02.jpg",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/ristechjpg-02-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 116445,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "Asset-08.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Asset-08.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/industry.json",
+                    "name": "Industry"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our team"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 10888,
+            "dimensions": [
+                462,
+                196
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Testimonial-image-01.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Testimonial-image-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/industry.json",
+                    "name": "Industry"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our team"
+                }
+            ],
+            "filesize": 67213,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "Testimonial-image-02.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Testimonial-image-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/industry.json",
+                    "name": "Industry"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our team"
+                }
+            ],
+            "filesize": 76898,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "Testimonial-image-03.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Testimonial-image-03.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/industry.json",
+                    "name": "Industry"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our team"
+                }
+            ],
+            "filesize": 63914,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "Testimonial-image-04.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Testimonial-image-04.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/industry.json",
+                    "name": "Industry"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our team"
+                }
+            ],
+            "filesize": 77116,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "Testimonial-image-05.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Testimonial-image-05.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/industry.json",
+                    "name": "Industry"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our team"
+                }
+            ],
+            "filesize": 71633,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "Testimonial-image-06.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Testimonial-image-06.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/industry.json",
+                    "name": "Industry"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our team"
+                }
+            ],
+            "filesize": 59311,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "Asset-014.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Asset-014.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/industry.json",
+                    "name": "Industry"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our team"
+                }
+            ],
+            "filesize": 30143,
+            "dimensions": [
+                562,
+                565
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "award-04.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/award-04-800x634.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/industry.json",
+                    "name": "Industry"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our team"
+                }
+            ],
+            "filesize": 68443,
+            "dimensions": [
+                1010,
+                801
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "award-07.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/award-07-800x634.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 56107,
+            "dimensions": [
+                1010,
+                801
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "award-06.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/award-06-800x634.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/industry.json",
+                    "name": "Industry"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our team"
+                }
+            ],
+            "filesize": 94751,
+            "dimensions": [
+                1010,
+                801
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "ristechjpg-01.jpg",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/ristechjpg-01-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 103173,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "Numbers-01.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Numbers-01-800x277.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 18453,
+            "dimensions": [
+                888,
+                308
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Numbers-02.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Numbers-02-800x267.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 20083,
+            "dimensions": [
+                924,
+                308
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Numbers-04.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Numbers-04-800x266.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 19530,
+            "dimensions": [
+                928,
+                308
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Numbers-03.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Numbers-03-800x267.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 20169,
+            "dimensions": [
+                922,
+                308
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "BG-08.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/BG-08-800x563.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/industry.json",
+                    "name": "Industry"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our team"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 78371,
+            "dimensions": [
+                1748,
+                1231
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "BG-09.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/BG-09-800x797.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/industry.json",
+                    "name": "Industry"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our team"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 34938,
+            "dimensions": [
+                1235,
+                1231
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "BG-010.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/BG-010-800x1794.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/industry.json",
+                    "name": "Industry"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our team"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 26105,
+            "dimensions": [
+                831,
+                1863
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "ristechjpg-04.jpg",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/ristechjpg-04-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                }
+            ],
+            "filesize": 159222,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "Blog-06.jpg",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Blog-06-800x576.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 136333,
+            "dimensions": [
+                1365,
+                982
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "Asset-020.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Asset-020-800x532.png",
+            "templates": [
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our team"
+                }
+            ],
+            "filesize": 167161,
+            "dimensions": [
+                1248,
+                830
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "award-05.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/award-05-800x634.png",
+            "templates": [
+                {
+                    "source": "templates\/industry.json",
+                    "name": "Industry"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our team"
+                }
+            ],
+            "filesize": 108538,
+            "dimensions": [
+                1010,
+                801
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "ristechjpg-03.jpg",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/ristechjpg-03-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 231742,
+            "dimensions": [
+                1500,
+                2249
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "Teams-08.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Teams-08-800x891.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our team"
+                }
+            ],
+            "filesize": 270471,
+            "dimensions": [
+                847,
+                943
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "Teams-05.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Teams-05-800x891.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our team"
+                }
+            ],
+            "filesize": 241878,
+            "dimensions": [
+                847,
+                943
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "Teams-03.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Teams-03-800x891.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our team"
+                }
+            ],
+            "filesize": 299012,
+            "dimensions": [
+                847,
+                943
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "Teams-06.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Teams-06-800x891.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our team"
+                }
+            ],
+            "filesize": 266819,
+            "dimensions": [
+                847,
+                943
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "Teams-01.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Teams-01-800x891.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our team"
+                }
+            ],
+            "filesize": 286230,
+            "dimensions": [
+                847,
+                943
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "Teams-07.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Teams-07-800x891.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our team"
+                }
+            ],
+            "filesize": 224992,
+            "dimensions": [
+                847,
+                943
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "Teams-02.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Teams-02-800x891.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our team"
+                }
+            ],
+            "filesize": 257277,
+            "dimensions": [
+                847,
+                943
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "Teams-04.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Teams-04-800x891.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our team"
+                }
+            ],
+            "filesize": 323488,
+            "dimensions": [
+                847,
+                943
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "ristechjpg-05.jpg",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/ristechjpg-05-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 96680,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "404-1.png",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/404-1-800x331.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 123284,
+            "dimensions": [
+                1344,
+                556
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Blog-02.jpg",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Blog-02-800x576.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 173038,
+            "dimensions": [
+                1365,
+                982
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "Blog-05.jpg",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Blog-05-800x576.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 87600,
+            "dimensions": [
+                1365,
+                982
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "Blog-04.jpg",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Blog-04-800x576.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 105266,
+            "dimensions": [
+                1365,
+                982
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "Blog-03.jpg",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Blog-03-800x576.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 232286,
+            "dimensions": [
+                1365,
+                982
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        },
+        {
+            "filename": "Blog-01.jpg",
+            "thumbnail_url": "https:\/\/risetech.1onestrong.com\/wp-content\/uploads\/2023\/07\/Blog-01-800x576.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 153844,
+            "dimensions": [
+                1365,
+                982
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EQ6RVF3D75"
+        }
+    ]
+}

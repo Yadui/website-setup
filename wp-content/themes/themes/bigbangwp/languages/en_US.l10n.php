@@ -1,0 +1,2 @@
+<?php
+return ['project-id-version'=>'BigBangWP default','report-msgid-bugs-to'=>'','pot-creation-date'=>'2012-09-29 02:04+0100','po-revision-date'=>'2012-09-29 02:05+0100','last-translator'=>'Brankic1979 <support@brankic.net>','language-team'=>'','mime-version'=>'1.0','content-type'=>'text/plain; charset=UTF-8','content-transfer-encoding'=>'8bit','x-poedit-keywordslist'=>'__;_;_e;_n','x-poedit-basepath'=>'..','x-poedit-searchpath-0'=>'..','x-poedit-searchpath-1'=>'includes','messages'=>[]];
